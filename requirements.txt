@@ -1,0 +1,8 @@
+sentence-transformers
+numpy
+torch
+chardet
+requests
+tqdm
+scikit-learn
+
